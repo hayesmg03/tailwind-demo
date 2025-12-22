@@ -1,0 +1,1 @@
+This is a simple website I made to learn TailwindCSS. It imitates the official Tailwind website as I wanted to learn some good design practices.
